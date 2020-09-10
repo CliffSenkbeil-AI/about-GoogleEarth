@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-
   <GroundOverlay>
-
-    <name>What does the png say?</name>
-
+    <name>Large-scale overlay on terrain</name>
+    <description>Overlay shows Mount Etna erupting 
+        on July 13th, 2001.</description>
     <Icon>
-      <href>https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg</href>
+      <href>https://developers.google.com/kml/documentation/images/etna.jpg</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>86400</refreshInterval>
+
     </Icon>
-
-  	<LatLonBox>
-  		<north>46.77980155828784</north>
-  		<south>46.65804355828784</south>
-
-  		<east>9.144871415151389</east>
-  		<west>8.433995415151397</west>
-  	</LatLonBox>
-
-
+    <LatLonBox>
+      <north>37.91904192681665</north>
+      <south>37.46543388598137</south>
+      <east>15.35832653742206</east>
+      <west>14.60128369746704</west>
+      <rotation>-0.1556640799496235</rotation>
+    </LatLonBox>
   </GroundOverlay>
-
 </kml>
