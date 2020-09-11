@@ -7,7 +7,7 @@
     <Icon>
       <href>etna.jpg</href>
       <refreshMode>onInterval</refreshMode>
-      <refreshInterval>86400</refreshInterval>
+      <refreshInterval>60</refreshInterval>
 
     </Icon>
     <LatLonBox>
