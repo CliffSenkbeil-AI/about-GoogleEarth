@@ -3,25 +3,56 @@
 
   <Placemark>
 
-    <name>Description with html</name>
+    <name>Hobart City</name>
 
     <description><![CDATA[
 
-      <h1>HTML is possible within a description</h1>
+      <h1>Hobart City Assets</h1>
 
       Some <span style='color:red'>red text</span>.
       
       <table border=1>
-        <tr><td>one  </td><td>foo</td></tr>
-        <tr><td>two  </td><td>bar</td></tr>
-        <tr><td>three</td><td>baz</td></tr>
+        <tr><td>Item one  </td><td>1m</td></tr>
+        <tr><td>Item two  </td><td>2m</td></tr>
+        <tr><td>Item three</td><td>3m</td></tr>
       </table>
 
 
     ]]></description>
 
     <Point>
-			<coordinates>8.542952335953721,47.36685263064198,0</coordinates>
+			<coordinates>147.50552,-42.836803,0</coordinates>
+    </Point>
+
+  </Placemark>
+
+	
+	  <Placemark>
+
+    <name>Hobart Airport</name>
+
+    <description><![CDATA[
+      <h1>Hobart Airport <span style='color:red'>Assets</span>.
+       <description><![CDATA[
+
+      <h1>Hobart City Assets</h1>
+
+      Some <span style='color:red'>red text</span>.
+      
+      <table border=1>
+        <tr><td>Item one  </td><td>1m</td></tr>
+        <tr><td>Item two  </td><td>2m</td></tr>
+        <tr><td>Item three</td><td>3m</td></tr>
+      </table>
+
+
+    ]]></description>
+
+
+    ]]></description>
+
+    <Point>
+			<coordinates>147.33162,-42.88164,0</coordinates>
     </Point>
 
   </Placemark>
