@@ -6,18 +6,13 @@
     <name>Hobart City</name>
 
     <description><![CDATA[
-
-      <h1>Hobart City Assets</h1>
-
-      Some <span style='color:red'>red text</span>.
-      
+<h1>Hobart City Assets</h1>
+Some <span style='color:red'>red text</span>.
       <table border=1>
         <tr><td>Item one  </td><td>1m</td></tr>
         <tr><td>Item two  </td><td>2m</td></tr>
         <tr><td>Item three</td><td>3m</td></tr>
       </table>
-
-
     ]]></description>
 
     <Point>
@@ -33,15 +28,12 @@
     <name>Hobart Airport</name>
 
     <description><![CDATA[
-      <h1>Hobart Airport <span style='color:red'>Assets</span>
-      
+      <h1>Hobart Airport <span style='color:red'>Assets</span></h1?
       <table border=1>
         <tr><td>Item one  </td><td>1m</td></tr>
         <tr><td>Item two  </td><td>2m</td></tr>
         <tr><td>Item three</td><td>3m</td></tr>
       </table>
-
-
     ]]></description>
 
 
