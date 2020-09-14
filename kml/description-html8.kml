@@ -28,7 +28,8 @@ Some <span style='color:red'>red text</span>.
     <name>Hobart Airport</name>
 
     <description><![CDATA[
-      <h1>Hobart Airport <span style='color:red'>Assets</span></h1?
+      <h1>Hobart Airport <span style='color:red'>Assets</span></h1>
+This is the Hobart City Airport Location
       <table border=1>
         <tr><td>Item one  </td><td>1m</td></tr>
         <tr><td>Item two  </td><td>2m</td></tr>
